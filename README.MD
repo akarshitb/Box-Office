@@ -9,6 +9,6 @@ Stack:
 
 
 Develop locally-
-1. Clone this repo by running git clone 
+1. Clone this repo by running git clone "https://github.com/akarshitb/Box-Office.git"
 2. Install dependencies by running npm install
 3. Run npm run start
