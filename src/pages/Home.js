@@ -41,7 +41,7 @@ const Home = () => {
 
   const onInputChange = useCallback(
     (ev) => {
-      setInput(ev.target.cpvalue);
+      setInput(ev.target.value);
     },
     [setInput]
   );
